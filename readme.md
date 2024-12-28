@@ -1,9 +1,9 @@
 Opis projektu
     Projekt demonstruje obsługę wyjątków w Javie poprzez celowe generowanie i przechwytywanie wyjątku NullPointerException. 
 
-    Kod został podzielony na dwie klasy:
-        1. ExceptionGenerator – klasa z metodą generateException(), która generuje wyjątek NullPointerException.
-        2. Main – klasa główna, która wywołuje metodę generateException() i obsługuje wyjątek w bloku try-catch.
+Klasy:
+    1. ExceptionGenerator – klasa z metodą generateException(), która generuje wyjątek NullPointerException.
+    2. Main – klasa główna, która wywołuje metodę generateException() i obsługuje wyjątek w bloku try-catch.
 
 Struktura projektu
     1. ExceptionGenerator.java:
